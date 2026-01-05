@@ -34,7 +34,7 @@ $$IPC = (Z_{Renda} \cdot 0.3) + (Z_{Jovem} \cdot 0.3) + (Z_{Ativ} \cdot 0.2) + (
 Utilizei o algoritmo **K-Means** para agrupar as cidades com "DNAs" semelhantes.
 * **Definição do K:** O Método do Cotovelo (Elbow Method) indicou que **7 clusters** ofereciam a melhor separação dos dados.
 
-![Elbow Method](./assets/elbow_method.png)
+#![Elbow Method](./assets/elbow_method.png)
 
 ## 📊 Resultados e Personas Encontradas
 A segmentação revelou perfis de mercado distintos, guiando a estratégia:
@@ -44,7 +44,7 @@ A segmentação revelou perfis de mercado distintos, guiando a estratégia:
 * ❤️ **Paixão Popular (Ex: Amapá, RN):** Alto engajamento, menor renda. **Ação:** Produtos com bom custo-benefício.
 * 📉 **Mercado Maduro Inativo:** Alta renda, mas público idoso e sedentário. **Ação:** Baixa prioridade de expansão.
 
-![Cluster Heatmap](./assets/heatmap_clusters.png)
+#![Cluster Heatmap](./assets/heatmap_clusters.png)
 
 ## 🛠️ Tecnologias Utilizadas
 * **Linguagem:** Python
